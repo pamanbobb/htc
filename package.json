@@ -1,0 +1,23 @@
+{
+  "name": "instagram_express",
+  "version": "1.0.0",
+  "description": "instagram_express for pupose and education",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ig",
+    "nodejs",
+    "endpoint"
+  ],
+  "author": "PAMANBOB",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/insta.js": "^1.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
